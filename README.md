@@ -1,10 +1,5 @@
 <h1 align="left">Hey 👋</h1>
 
-<p align="left">
-  Full-stack developer focused on building modern web applications.<br>
-  I work mainly with React, Next.js, TypeScript, FastAPI and PostgreSQL.
-</p>
-
 ---
 
 <h3 align="left">⚡ Tech Stack</h3>
@@ -36,19 +31,9 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/Exmar1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/your_github_username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="left">
-  Check out my pinned repositories below 👇
-</p>
