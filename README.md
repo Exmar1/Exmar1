@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Exmar</h1>
+<h1 align="left">Hey 👋</h1>
 
 <p align="left">
   Full-stack developer focused on building modern web applications.<br>
